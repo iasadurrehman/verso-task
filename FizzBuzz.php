@@ -11,7 +11,3 @@ function fizzbuzz($n) {
     return $n;
   }
 }
-
-for ($i = 1; $i <= 100; $i++) {
-  echo fizzbuzz($i) . "\n";
-}
