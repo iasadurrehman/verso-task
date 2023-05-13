@@ -1,0 +1,1 @@
+{"version":1,"defects":{"FizzBuzzTest::testFizzBuzz":4,"FizzBuzzTest::testFizz":4,"FizzBuzzTest::testBuzz":4,"FizzBuzzTest::testNumber":4},"times":{"FizzBuzzTest::testFizz":0.002,"FizzBuzzTest::testBuzz":0,"FizzBuzzTest::testFizzBuzz":0,"FizzBuzzTest::testNumber":0}}
